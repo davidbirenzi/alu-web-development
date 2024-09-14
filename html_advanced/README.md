@@ -1,2 +1,2 @@
 this is how the website looks like
-![web image](Downloads/template.png)
+![web image](Images/template.png)
